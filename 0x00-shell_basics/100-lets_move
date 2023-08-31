@@ -1,1 +1,2 @@
-#!/bin/bashmv [[:upper:]]* /temo/u
+#!/bin/bash 
+mv [[:upper:]]* /tmp/u
